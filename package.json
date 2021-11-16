@@ -7,7 +7,7 @@
   "author": "Vitor <vit.riber1@hotmail.com>",
   "license": "MIT",
   "dependencies": {
-    "aws-sdk": "^2.615.0",
+    "aws-sdk": "^2.814.0",
     "axios": "^0.19.1",
     "cors": "^2.8.5",
     "crawler": "^1.2.1",
